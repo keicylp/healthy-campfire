@@ -1,0 +1,4 @@
+name: HealthyCampfire
+version: '1.0.0'
+main: me.keicy.healthycampfire.HealthyCampfire
+api-version: '1.20'
